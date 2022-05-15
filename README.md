@@ -11,5 +11,5 @@ If you find any security vulnerability that has been inadvertently caused by me,
 
 Yours sincerely,
 Zaw Min Lwin
-Java Developer Class
+(Java Developer Class)
 lwin.zawmin@gmail.com
